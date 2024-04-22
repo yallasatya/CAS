@@ -1,0 +1,51 @@
+17:05:54.023 [main] INFO  testFiles.worldClockTest - validateHotApps Sucessfully Executed
+17:05:54.029 [main] INFO  testFiles.worldClockTest - ********** validateRandomApp Test started **********
+17:05:54.259 [main] INFO  testFiles.worldClockTest - Alphabet clicked
+17:06:09.601 [main] INFO  testFiles.worldClockTest - validateRandomApp Sucessfully Executed
+17:06:10.717 [main] INFO  testFiles.worldClockTest - Closing the browser
+17:13:47.147 [main] INFO  testFiles.worldClockTest - --------------------------- TEST BEGINS ---------------------------------
+17:13:47.167 [main] INFO  testFiles.worldClockTest - ********** verifyUser Test started **********
+17:13:58.992 [main] INFO  testFiles.worldClockTest - Capturing the User Details
+17:13:58.993 [main] INFO  testFiles.worldClockTest - Successfully captured the User Details
+17:13:59.266 [main] INFO  testFiles.worldClockTest - verifyUser Sucessfully Executed
+17:13:59.267 [main] INFO  testFiles.worldClockTest - ********** verifyWorldClockText Test started **********
+17:13:59.286 [main] INFO  testFiles.worldClockTest - Scrolled down to the World Clock
+17:14:22.594 [main] ERROR testFiles.worldClockTest - verifyWorldClockText got failed
+17:14:22.596 [main] INFO  testFiles.worldClockTest - ********** validateBangloreTimeZone Test started **********
+17:14:22.597 [main] INFO  testFiles.worldClockTest - validateBangloreTimeZone got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17:14:22.598 [main] INFO  testFiles.worldClockTest - ********** validateLondonTimeZone Test started **********
+17:14:22.599 [main] INFO  testFiles.worldClockTest - validateLondonTimeZone got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17:14:22.599 [main] INFO  testFiles.worldClockTest - ********** validateNewYorkTimeZone Test started **********
+17:14:22.600 [main] INFO  testFiles.worldClockTest - validateNewYorkTimeZone got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17:14:22.601 [main] INFO  testFiles.worldClockTest - ********** validateHotApps Test started **********
+17:14:33.745 [main] INFO  testFiles.worldClockTest - Got beCognizant Handle
+17:14:33.752 [main] INFO  testFiles.worldClockTest - Got Window Handles
+17:14:33.757 [main] INFO  testFiles.worldClockTest - Switched to OneC
+17:14:42.853 [main] INFO  testFiles.worldClockTest - Hot Apps clicked
+17:14:49.886 [main] INFO  testFiles.worldClockTest - Alphabets Validated
+17:14:50.095 [main] INFO  testFiles.worldClockTest - validateHotApps Sucessfully Executed
+17:14:50.096 [main] INFO  testFiles.worldClockTest - ********** validateRandomApp Test started **********
+17:14:51.033 [main] ERROR testFiles.worldClockTest - validateRandomApp got failed
+17:14:52.195 [main] INFO  testFiles.worldClockTest - Closing the browser
+20:51:17.035 [main] INFO  testFiles.worldClockTest - --------------------------- TEST BEGINS ---------------------------------
+20:51:17.088 [main] INFO  testFiles.worldClockTest - ********** verifyUser Test started **********
+20:51:22.954 [main] INFO  testFiles.worldClockTest - Closing the browser
+15:26:07.701 [main] INFO  testFiles.worldClockTest - --------------------------- TEST BEGINS ---------------------------------
+15:26:07.766 [main] INFO  testFiles.worldClockTest - ********** verifyUser Test started **********
+15:26:38.860 [main] ERROR testFiles.worldClockTest - verifyUser got failed
+15:26:38.863 [main] INFO  testFiles.worldClockTest - ********** verifyWorldClockText Test started **********
+15:26:38.907 [main] INFO  testFiles.worldClockTest - Scrolled down to the World Clock
+15:26:42.324 [main] INFO  testFiles.worldClockTest - verifyWorldClockText Sucessfully Executed
+15:26:42.327 [main] INFO  testFiles.worldClockTest - ********** validateBangloreTimeZone Test started **********
+15:26:47.536 [main] INFO  testFiles.worldClockTest - Verifying the current location details with the system details
+15:26:47.536 [main] INFO  testFiles.worldClockTest - Verified the current location
+15:26:47.574 [main] INFO  testFiles.worldClockTest - Verified the current time
+15:26:47.578 [main] INFO  testFiles.worldClockTest - Verified the current day
+15:26:47.578 [main] INFO  testFiles.worldClockTest - Verified the current date
+15:26:47.749 [main] INFO  testFiles.worldClockTest - validateBangloreTimeZone Sucessfully Executed
+15:26:47.751 [main] INFO  testFiles.worldClockTest - ********** validateLondonTimeZone Test started **********
+15:26:48.096 [main] INFO  testFiles.worldClockTest - Verifying the London, UK (BST) details
+15:26:48.196 [main] INFO  testFiles.worldClockTest - Google tab opened
+15:27:14.315 [main] INFO  testFiles.worldClockTest - --------------------------- TEST BEGINS ---------------------------------
+15:27:14.358 [main] INFO  testFiles.worldClockTest - ********** verifyUser Test started **********
+15:27:25.420 [main] INFO  testFiles.worldClockTest - Closing the browser
